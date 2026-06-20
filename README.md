@@ -1,1 +1,1 @@
-# Multilingual-Misinformation-Radar
+print("Hello, Multilingual Misinformation Radar!")

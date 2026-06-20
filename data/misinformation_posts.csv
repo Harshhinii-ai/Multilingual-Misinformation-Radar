@@ -1,0 +1,13 @@
+﻿post_id,username,post_text,language,likes,shares,url,label
+1,user_101,Government is giving free laptops to all students,English,120,45,http://fake-laptop.com,Fake
+2,user_102,ప్రభుత్వం విద్యార్థులకు ఉచిత ల్యాప్‌టాప్‌లు ఇస్తోంది,Telugu,98,40,http://fake-laptop.com,Fake
+3,user_103,सरकार सभी छात्रों को मुफ्त लैपटॉप दे रही है,Hindi,150,60,http://fake-laptop.com,Fake
+4,user_104,IMD has issued a heavy rainfall alert for coastal areas,English,55,12,http://weather.gov.in,Real
+5,user_105,రేపు భారీ వర్షాలు పడే అవకాశం ఉందని వాతావరణ శాఖ తెలిపింది,Telugu,70,18,http://weather.gov.in,Real
+6,user_106,आज बारिश की चेतावनी मौसम विभाग ने जारी की है,Hindi,65,20,http://weather.gov.in,Real
+7,user_107,Drink lemon water to cure dengue in one day,English,210,95,http://health-fake.com,Misleading
+8,user_108,నిమ్మరసం తాగితే డెంగ్యూ ఒక్క రోజులో తగ్గుతుంది,Telugu,180,80,http://health-fake.com,Misleading
+9,user_109,नींबू पानी पीने से डेंगू एक दिन में ठीक हो जाएगा,Hindi,190,85,http://health-fake.com,Misleading
+10,user_110,Government announced new scholarship application dates,English,80,22,http://scholarship.gov.in,Real
+11,user_111,ప్రభుత్వం కొత్త స్కాలర్‌షిప్ దరఖాస్తు తేదీలను ప్రకటించింది,Telugu,75,20,http://scholarship.gov.in,Real
+12,user_112,सरकार ने नई छात्रवृत्ति आवेदन तिथियां घोषित की हैं,Hindi,85,24,http://scholarship.gov.in,Real
