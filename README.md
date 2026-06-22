@@ -157,4 +157,9 @@ Prediction: Fake / High Risk
 
 ## Conclusion
 
-This project demonstrates how data analysis, machine learning, and dashboarding can be combined to build a practical misinformation detection system. It is designed as a portfolio-worthy project for Data Science, NLP, Cybersecurity, and Analytics roles.
+This project demonstrates how data analysis, machine learning, and dashboarding can be combined to build a practical misinformation detection system. It is designed as a portfolio-worthy project for Data Science, NLP, Cybersecurity, and Analytics roles. 
+## Dashboard Preview
+
+You can view the dashboard preview here:
+
+[Download Dashboard PDF](reports/dashboard_preview.pdf)
